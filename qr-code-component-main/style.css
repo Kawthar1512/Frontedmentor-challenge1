@@ -1,0 +1,45 @@
+body{
+background:Slate 300;
+background-color:hsl(212, 45%, 89%);
+font-family: "outfit", sans-serif;
+text-align:center;
+min-height: 100vh
+
+}
+body p{
+    font-size: 15px;
+}
+.container{
+    width:200px;
+
+    border-radius:10px;
+    padding: 10px ;
+    /* border: 2px solid black; */
+    text-align: center;
+    /* align-content: center; */
+    background-color: White;
+   background-color:hsl(0, 0%, 100%);
+   margin: 100px auto;
+
+}
+img{
+    width: 200px;
+    border-radius: 10px;
+}
+.imp{
+    font-weight: 700;
+   
+}
+.scan{
+    color: Slate 500;
+    color:hsl(216, 15%, 48%);
+    font-size:12px;
+}
+.attribution { 
+    font-size: 11px;
+    font-weight: 400;
+     text-align: center; 
+   
+ }
+
+.attribution a { color: hsl(228, 45%, 44%);}
